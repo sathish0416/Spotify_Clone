@@ -1,43 +1,37 @@
 # Spotify Clone 🎧
 
-A Spotify clone built with React JS and Tailwind CSS, showcasing a dynamic and responsive user interface. This project is a demonstration of modern web development techniques using React JS hooks, React-DOM for navigation, and the Tailwind CSS framework for styling.
+A Spotify clone built with React JS and Tailwind CSS, featuring a dynamic and responsive user interface. This project demonstrates modern web development techniques using React hooks, React Router for navigation, and the Tailwind CSS framework for styling.
 
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Features
 
 - Dynamic user interface
-- Responsive design, mobile-friendly
-- Seamless navigation using React-DOM
-
-## Demo
-
-Check out the live demo [here](http://spotify-codewithbalaji.vercel.app).
+- Responsive, mobile-friendly design
+- Seamless navigation with React Router
 
 ## Technologies
 
 - React JS
 - Tailwind CSS
-- React-DOM
+- React Router
 
 ## Installation
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/codewithbalaji/spotify-clone.git
+    git clone https://github.com/sathish0416/Spotify_Clone.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd spotify-clone
+    cd Spotify_Clone
     ```
 3. Install dependencies:
     ```sh
@@ -48,9 +42,9 @@ Check out the live demo [here](http://spotify-codewithbalaji.vercel.app).
 
 1. Start the development server:
     ```sh
-    npm start
+    npm run dev
     ```
-2. Open your browser and navigate to `http://localhost:3000`.
+2. Open your browser and navigate to `http://localhost:5173` (or the port shown in your terminal).
 
 ## Contributing
 
@@ -59,8 +53,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## License
 
 This project is licensed under the MIT License.
-
-## Acknowledgements
-
-Special thanks to the GreatStack YouTube Channel for their invaluable tutorials and guidance.
 
